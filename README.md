@@ -1,1 +1,1 @@
-# UALE: User Action Logger for Eclipse
+# ZUAL: Zenowoo's User Action Logger
